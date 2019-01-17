@@ -25,8 +25,9 @@
 > 请注意，图片还是得在 Strapi 中复制粘贴上传，本地编辑主要是为了行文、构文更加流畅直观  
 >（实际上 Strapi 的编辑器已是数十款 CMS 中综合水平最好的了，亲测）
 
-### § 效率工具推荐
+### § 工具推荐
 * [Ditto](https://ditto-cp.sourceforge.io)：历史剪贴板（编辑必备神器）
+* [f.lux](https://justgetflux.com)：护眼神器
 
 > 更多请自行 Google，或参考这个[知乎帖](https://www.zhihu.com/question/22919326)
 
