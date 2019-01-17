@@ -16,7 +16,7 @@
 * [献给写作者的 Markdown 新手指南](https://www.jianshu.com/p/q81RER)
 * *更多请自行 Google，教程多到贴不完*
 
-## § 排版规范（建议）
+## § 排版规范（建议酌情参考）
 可参考 [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines)
 
 ## § 本地编辑
