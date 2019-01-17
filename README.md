@@ -16,7 +16,10 @@
 * [献给写作者的 Markdown 新手指南](https://www.jianshu.com/p/q81RER)
 * *更多请自行 Google，教程多到贴不完*
 
-### § 本地编辑软件
+### § 排版规范
+可参考 [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines)
+
+### § 本地编辑
 如果你要长篇大论，觉得 Strapi 的编辑器不够好用，想在本地编辑完后再粘贴回去，没问题。  
 为此我专门调研并亲自试用了近十款主流的 Markdown 编辑器，选出如下两款：
 * [Haroopress](http://pad.haroopress.com)：跟 Strapi 的编辑器一样，左侧编辑右侧预览
